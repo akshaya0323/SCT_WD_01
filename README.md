@@ -2,8 +2,6 @@
 
 This is **Task 01** completed as part of my internship at **SkillCraft Technology**. The objective was to design and build a responsive landing page with an interactive fixed navigation menu.
 
-🔗 **Live Preview**: http://127.0.0.1:5500/index.html
----
 ## 📁 Project Structure
 
 <pre>
