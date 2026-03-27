@@ -32,19 +32,3 @@ This is a responsive and interactive landing page built as part of an internship
 - CSS3 (Flexbox, Media Queries)  
 - JavaScript (DOM manipulation, scroll effects)
 
-## 📸 Screenshots
-
-### 🖥️ Landing Page Hero Section  
-<a href="https://ibb.co/8p0Jx8y"><img src="https://i.ibb.co/Ww6QzKr/Screenshot-2025-06-20-112427.png" alt="Hero Section" width="800"></a>
-
-### 🧩 Success Stories Section  
-<a href="https://ibb.co/d4ghDZ4"><img src="https://i.ibb.co/60BdFQ0r/Screenshot-2025-06-20-112443.png" alt="Success Stories" width="800"></a>
-
-### 💼 Services Section  
-<a href="https://ibb.co/DDSFmX23"><img src="https://i.ibb.co/mCMKdsWQ/Screenshot-2025-06-20-112454.png" alt="Services Section" width="800"></a>
-
-### 🎯 About Section  
-<a href="https://ibb.co/3m2r9GL6"><img src="https://i.ibb.co/xqWCtPR9/Screenshot-2025-06-20-113207.png" alt="About Section" width="800"></a>
-
-### 📞 Contact Section  
-<a href="https://ibb.co/k64SDfm7"><img src="https://i.ibb.co/wrSzQXck/Screenshot-2025-06-20-113218.png" alt="Contact Section" width="800"></a>
